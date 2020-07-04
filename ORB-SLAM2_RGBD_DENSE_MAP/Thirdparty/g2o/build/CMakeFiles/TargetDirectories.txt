@@ -1,3 +1,0 @@
-/home/qian/ORB_SLAM2/ORB-SLAM2_RGBD_DENSE_MAP/Thirdparty/g2o/build/CMakeFiles/edit_cache.dir
-/home/qian/ORB_SLAM2/ORB-SLAM2_RGBD_DENSE_MAP/Thirdparty/g2o/build/CMakeFiles/rebuild_cache.dir
-/home/qian/ORB_SLAM2/ORB-SLAM2_RGBD_DENSE_MAP/Thirdparty/g2o/build/CMakeFiles/g2o.dir
